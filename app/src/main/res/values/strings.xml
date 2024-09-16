@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Newsing</string>
+    <string name="headlines_bottom_nav">Headlines</string>
+    <string name="favourites_bottom_nav">Favourites</string>
+    <string name="search_bottom_nav">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favourites_text_view">Favourites</string>
+    <string name="search_news_edit_text_hint">Search news...</string>
+    <string name="search_text_view">Search</string>
+</resources>
